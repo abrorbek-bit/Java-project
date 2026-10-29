@@ -1,1 +1,1 @@
-JavaPriject
+JavaProject
